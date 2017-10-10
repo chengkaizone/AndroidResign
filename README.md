@@ -9,7 +9,7 @@ echo "setup resign"
 
 # 按如下参数输入到终端: 确保有执行权限 chmod 777 resign.sh
 # 导航到resign.sh脚本所在的目录, 一次输入如下参数
-# 命令: ./resign.sh apk_source apk_dest keystore_path storepass keypass alias
+# tony$ ./resign.sh apk_source apk_dest keystore_path storepass keypass alias
 
 # 源路径
 apk_source=$1
