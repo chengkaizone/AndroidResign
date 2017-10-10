@@ -1,7 +1,8 @@
 # AndroidResign
-Mac apk重签名脚本
+# Mac apk重签名脚本
 
 # 创建一个名为resign.sh的脚本文件, 将如下脚本拷贝到其中. 按下面的解释即可对apk进行重新签名
+# 中文为解释, 可以全部删除
 
 #!/bin/bash
 echo "setup resign"
